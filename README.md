@@ -91,9 +91,9 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=Etc/UTC
-      - DISCORD__TOKEN=MTIwNDI2MDgyNDg0ODUzMTQ1Ng.GhzFzj.p3FgNI8WMuOSoXZoJ5lE4GbZ4RsFPn2nPdWABI
-      - OVERSEERR__API=MTcwNzIzNzYzMjQyNjY3Mjc4YTFmLTQ4ZGQtNDkyMS05MmI4LTRjNWVhNTljMTBhMA==
-      - OVERSEERR__URL=http://10.10.0.6:5055
+      - DISCORD__TOKEN=[token]
+      - OVERSEERR__API=
+      - OVERSEERR__URL=
       - RADARR__API=
       - RADARR__URL=
       - SONARR__API=
